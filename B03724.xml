@@ -1,0 +1,366 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A hundred godly lessons. That a mother on her death-bed gave to her children, whereby they may know how to guide themselves towards God and man, to the benefit of the common-wealth, joy of their parents, and good of themselves. Tune is, Wigmores galliard.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674-1679?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03724</idno>
+            <idno type="STC">Wing H3726A</idno>
+            <idno type="STC">ESTC R178307</idno>
+            <idno type="EEBO-CITATION">47012481</idno>
+            <idno type="OCLC">ocm 47012481</idno>
+            <idno type="VID">174447</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03724)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174447)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2689:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A hundred godly lessons. That a mother on her death-bed gave to her children, whereby they may know how to guide themselves towards God and man, to the benefit of the common-wealth, joy of their parents, and good of themselves. Tune is, Wigmores galliard.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles, T. Vere, J. Wright, and J. Clarke.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1674 and 1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains 2 illustrations.</note>
+                  <note>Place and date of publication taken from Wing (2nd ed.)</note>
+                  <note>Reproduction of original in: University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Last words --  Poetry.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:174447:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 11 -->
+            <head>A Hundred Godly Leſſons.</head>
+            <head type="sub">That a Mother on her Death-bed gave to her Children, whereby they may know how to guide themſelves towards God and Man, to the benefit of the Common-wealth, joy of their Parents, and good of themſelves.</head>
+            <opener>Tune is, <hi>Wigmores Galliard.</hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>MY children dear mark well my words,</l>
+               <l>and keep my Precepts well,</l>
+               <l>Conſider daily in your minds</l>
+               <l>the words which <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhall tell:</l>
+               <l>The gain is great which ſhall enſue,</l>
+               <l>good counſel doth direct,</l>
+               <l>Their ways and actions for the beſt,</l>
+               <l>that do it not neglect.</l>
+            </lg>
+            <lg>
+               <l>Firſt Worſhip God above all things,</l>
+               <l>vaſ<gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ſwearing ſee you ſhun:</l>
+               <l>Hear much, but ſee you little ſay,</l>
+               <l>thereby much good is won;</l>
+               <l>Speak thou no ill of any man,</l>
+               <l>tend well thine own affairs,</l>
+               <l>Br<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>le thy wrath and anger ſo,</l>
+               <l>that thereof come no cares.</l>
+            </lg>
+            <lg>
+               <l>Be mild and gentle in thy ſpeech,</l>
+               <l>both unto Man and Child,</l>
+               <l>Refuſe not good and lawful gains,</l>
+               <l>with words be not beguil'd:</l>
+               <l>Forget not any good turn done,</l>
+               <l>and help thy Neighbours need,</l>
+               <l>Commit no ill in any caſe,</l>
+               <l>the hungry ſee thou feed.</l>
+            </lg>
+            <lg>
+               <l>Caſt no man in the teeth with that</l>
+               <l>which thou for him haſt done;</l>
+               <l>Remember fleſh is fond and frail,</l>
+               <l>and hatred ſee thou ſhun.</l>
+               <l>Leave wicked things, then no miſhap</l>
+               <l>ſhall thee to trouble bring,</l>
+               <l>Crave no preferment of the Lord,</l>
+               <l>nor honour of the King.</l>
+            </lg>
+            <lg>
+               <l>Boaſt not thy ſelf before God's ſight,</l>
+               <l>who knows thy heart alway:</l>
+               <l>Offend not thou the multitude,</l>
+               <l>faint not when thou doſt pray:</l>
+               <l>Scorn not a man in miſery,</l>
+               <l>eſteem not tatling tales,</l>
+               <l>Conſider reaſon is exil'd,</l>
+               <l>when as a Drunkard rails:</l>
+            </lg>
+            <lg>
+               <l>Vſe not thy lips to loathſom lyes,</l>
+               <l>by craft increaſe not wealth,</l>
+               <l>And ſtrive not with a mighty man,</l>
+               <l>with temperance nouriſh health;</l>
+               <l>Look that thou order well thy words,</l>
+               <l>leave not thy friend for gold;</l>
+               <l>Truſt not too much before thou try,</l>
+               <l>in venturing be not bold.</l>
+            </lg>
+            <lg>
+               <l>In God repoſe thy ſtrength and ſtay,</l>
+               <l>with tongue extol his praiſe:</l>
+               <l>Honour thy Parents, and the Lord</l>
+               <l>he will prolong thy days:</l>
+               <l>He that his Father honour doth,</l>
+               <l>God will forgive his ſin;</l>
+               <l>He that his Mother loves, is like</l>
+               <l>one that doth favour win.</l>
+            </lg>
+            <lg>
+               <l>A child obedient to the Lord,</l>
+               <l>his Mother comfort ſhall,</l>
+               <l>The Fathers bleſſing ſtays the houſe,</l>
+               <l>his curſe doth make it fall:</l>
+               <l>A wiſe child makes the Father glad,</l>
+               <l>Fools do their Mothers grieve:</l>
+               <l>And ſhame ſhall come to ſuch as do</l>
+               <l>their Parents not relieve,</l>
+            </lg>
+            <lg>
+               <l>He that his Mother doth defie,</l>
+               <l>ſhall come to naught and worſe,</l>
+               <l>The Ravens ſhall pick out their eyes,</l>
+               <l>that do their Parents curſe:</l>
+               <l>From needy men turn not thy face,</l>
+               <l>let not thy right hand know,</l>
+               <l>What thou doſt with thy left hand give,</l>
+               <l>or on the poor beſtow.</l>
+            </lg>
+            <lg>
+               <l>They that upon the poor beſtow,</l>
+               <l>unto the Lord do lend,</l>
+               <l>And God unto ſuch men again,</l>
+               <l>a thouſand fold will ſend:</l>
+               <l>As water doth the fire quench<g ref="char:punc">▪</g>
+               </l>
+               <l>whoſe fury great doth grow,</l>
+               <l>Even ſo ſhall mercy quench their ſins,</l>
+               <l>the which do mercy ſhow.</l>
+            </lg>
+            <lg>
+               <l>Hear thou God's word with earneſt eare,</l>
+               <l>with wiſdom anſwer make,</l>
+               <l>Be thou not mov'd with every wind,</l>
+               <l>ſuch courſe do ſinners take;</l>
+               <l>Thy talk will ſhew thy fame or ſhame<g ref="char:punc">▪</g>
+               </l>
+               <l>fools oft themſelves annoy,</l>
+               <l>Truſt not thy own will overmuch,</l>
+               <l>for that may thee deſtroy.</l>
+            </lg>
+            <lg>
+               <l>They that the living God do fear,</l>
+               <l>a faithful friend ſhall find:</l>
+               <l>A true friend is a jewel rare,</l>
+               <l>and comfort to the mind.</l>
+               <l>Hear Sermons that good ſentences</l>
+               <l>thou maiſt conceive aright,</l>
+               <l>In Gods commandments exerciſe,</l>
+               <l>thy ſelf both day and night.</l>
+            </lg>
+            <pb facs="tcp:174447:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 11 -->
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>THink on the pain thy mother had,</l>
+               <l>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> bringing thee to life;</l>
+               <l>Fear God who knows thy ſecret thoughts,</l>
+               <l>and look thou make no ſtrife.</l>
+               <l>Viſit the ſick with carefulneſs,</l>
+               <l>the Priſoners grief conſider,</l>
+               <l>Shew pitty to the fatherleſs,</l>
+               <l>and God will thee deliver.</l>
+            </lg>
+            <lg>
+               <l>Help ſtill to right the widdows wrong,</l>
+               <l>remember ſtill thine end,</l>
+               <l>So thou ſhalt never do amiſs,</l>
+               <l>nor wilfully offend:</l>
+               <l>Truſt not a reconciled friend,</l>
+               <l>more then an open foe,</l>
+               <l>Who toucheth pitch, ſhall be defil'd,</l>
+               <l>take heed thou do not ſo.</l>
+            </lg>
+            <lg>
+               <l>Take not a wife that wanton is,</l>
+               <l>and full of ſhameful words,</l>
+               <l>The flattering of an horlot is,</l>
+               <l>at length more ſharp then Swords.</l>
+               <l>Caſt not thy love on ſuch a one,</l>
+               <l>whoſe looks can thee allure,</l>
+               <l>In every face where beauty is,</l>
+               <l>the heart's not always pure.</l>
+            </lg>
+            <lg>
+               <l>A woman fair and undiſcreet</l>
+               <l>is like a Ring of Gold,</l>
+               <l>The which in a ſwines ſnout is ſet,</l>
+               <l>unſeemly to behold:</l>
+               <l>The malice of lewd women ſhun,</l>
+               <l>for they will thee deſtroy,</l>
+               <l>Hate her that doth on every man,</l>
+               <l>ſet her delight and joy.</l>
+            </lg>
+            <lg>
+               <l>From others let thy praiſe proceed,</l>
+               <l>boaſt not thy ſelf in ought:</l>
+               <l>And do not hear a flattering tongue,</l>
+               <l>thereby much ill is wrought:</l>
+               <l>The child that doth his Parents rob,</l>
+               <l>and counteth it no ſin,</l>
+               <l>A vile deſtroyer he is deem'd,</l>
+               <l>and ſhall no favour win.</l>
+            </lg>
+            <lg>
+               <l>Correction bringeth wiſdom ſound,</l>
+               <l>fools hate good counſel ſtill,</l>
+               <l>That child doth ſhame his mother much,</l>
+               <l>that's let to have his will:</l>
+               <l>The good mans path ſhines as the light,</l>
+               <l>that beautifies the day,</l>
+               <l>The wicked know not where they walk,</l>
+               <l>for darkneſs is their way.</l>
+            </lg>
+            <lg>
+               <l>Put far from thee a froward Mouth,</l>
+               <l>a ſlanderous tongue is ill,</l>
+               <l>And do not thou an envious mind,</l>
+               <l>in any wiſe fulfill.</l>
+               <l>A Harlot brings a man to beg,</l>
+               <l>in her is found no truth,</l>
+               <l>An gladneſs therefore live and dye,</l>
+               <l>with the wife of thy youth.</l>
+            </lg>
+            <lg>
+               <l>Much babling breedeth great offence,</l>
+               <l>he that ſpeaks leaſt is wiſe,</l>
+               <l>Gods bleſſing only makes men rich,</l>
+               <l>from thence all joys ariſe.</l>
+               <l>Better is little fearing God,</l>
+               <l>then bags of gold got ill,</l>
+               <l>And better is one bit of bread,</l>
+               <l>then a fat Ox with ill will.</l>
+            </lg>
+            <lg>
+               <l>Who brooks no warning hates his ſoul,</l>
+               <l>true age worſhip aright,</l>
+               <l>A patient man far better is</l>
+               <l>then one indued with might.</l>
+               <l>Mans credit comes by doing good,</l>
+               <l>an humble mind indeed</l>
+               <l>Is better then a Lyar proud,</l>
+               <l>from whence vain brags proceed.</l>
+            </lg>
+            <lg>
+               <l>By this dear children you may learn,</l>
+               <l>how to direct your ways,</l>
+               <l>To God, to Prince, to Common-wealth,</l>
+               <l>whereon your welfare ſtays.</l>
+               <l>Print well in your remembrance,</l>
+               <l>the Leſſons I have ſhown,</l>
+               <l>Then ſhall you live in happy ſtate,</l>
+               <l>when I am dead and gone.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for F. Coles, T. Vere, J. Wright, and J. Clarke.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
